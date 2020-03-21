@@ -4,8 +4,10 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fccb886-a8a9-43c6-85ef-4abc03ac091e" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="5fccb886-a8a9-43c6-85ef-4abc03ac091e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm_proto.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm_proto.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,21 +25,14 @@
   </component>
   <component name="ProjectId" id="1S76dWGpr3PRK9qxSSDOjVCr1pp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="hm_proto" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -92,5 +87,58 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="70" key="#xdebugger.evaluate" timestamp="1584822156751">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="70" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1584822156751" />
+    <state width="1344" height="176" key="GridCell.Tab.0.bottom" timestamp="1584824706012">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584824706012" />
+    <state width="1344" height="176" key="GridCell.Tab.0.center" timestamp="1584824706011">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584824706011" />
+    <state width="1344" height="176" key="GridCell.Tab.0.left" timestamp="1584824706011">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584824706011" />
+    <state width="1344" height="176" key="GridCell.Tab.0.right" timestamp="1584824706011">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584824706011" />
+    <state width="1344" height="221" key="GridCell.Tab.1.bottom" timestamp="1584822721442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584822721442" />
+    <state width="1344" height="221" key="GridCell.Tab.1.center" timestamp="1584822721442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="221" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1584822721442" />
+    <state width="1344" height="221" key="GridCell.Tab.1.left" timestamp="1584822721442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="221" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1584822721442" />
+    <state width="1344" height="221" key="GridCell.Tab.1.right" timestamp="1584822721442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1344" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1584822721442" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584812537020">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1584812537020" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1584823921159">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1584823921159" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="possible_letter" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
